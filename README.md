@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Amir Mohammad
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Data Analysis
 
 ![python](https://img.shields.io/badge/-Python-25383e?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-25383e?style=flat&logo=Pandas)
